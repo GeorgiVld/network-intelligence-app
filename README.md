@@ -36,7 +36,8 @@ This application gathers network connection information (active and past connect
 
 ## Screenshots
 
-![Placeholder](screenshots/placeholder.png)
+![Screenshot 1](screenshots/sc1.png)
+![Screenshot 2](screenshots/sc2.png)
 
 ## Features
 
