@@ -1,0 +1,612 @@
+[
+    {
+        "178.255.155.168": {
+            "data": {
+                "ipAddress": "178.255.155.168",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "IT",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "ANEXIA Internetdienstleistungs GmbH",
+                "domain": "anexia.at",
+                "hostnames": [
+                    "IT-MIL-ANX-R005.router.teamviewer.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "37.252.247.101": {
+            "data": {
+                "ipAddress": "37.252.247.101",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "BG",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "ANEXIA Internetdienstleistungs GmbH",
+                "domain": "anexia.at",
+                "hostnames": [
+                    "BG-SOF-ANX-R002.router.teamviewer.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "52.167.200.126": {
+            "data": {
+                "ipAddress": "52.167.200.126",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "3.126.186.102": {
+            "data": {
+                "ipAddress": "3.126.186.102",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "DE",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "A100 ROW GmbH",
+                "domain": "amazon.com",
+                "hostnames": [
+                    "ec2-3-126-186-102.eu-central-1.compute.amazonaws.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "20.42.73.30": {
+            "data": {
+                "ipAddress": "20.42.73.30",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 10,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 1,
+                "numDistinctUsers": 1,
+                "lastReportedAt": "2024-07-08T13:30:47+00:00"
+            }
+        }
+    },
+    {
+        "0.0.32.10": {
+            "data": {
+                "ipAddress": "0.0.32.10",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": "Broadcast RFC1700",
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "0.0.0.0": {
+            "data": {
+                "ipAddress": "0.0.0.0",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": "Broadcast RFC1700",
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 46,
+                "numDistinctUsers": 9,
+                "lastReportedAt": "2024-07-20T15:50:28+00:00"
+            }
+        }
+    },
+    {
+        "34.252.182.227": {
+            "data": {
+                "ipAddress": "34.252.182.227",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "IE",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Amazon Data Services Ireland Limited",
+                "domain": "amazon.com",
+                "hostnames": [
+                    "ec2-34-252-182-227.eu-west-1.compute.amazonaws.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "192.168.1.8": {
+            "data": {
+                "ipAddress": "192.168.1.8",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": "Private IP Address LAN",
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 4,
+                "numDistinctUsers": 1,
+                "lastReportedAt": "2024-07-10T08:49:01+00:00"
+            }
+        }
+    },
+    {
+        "149.154.167.91": {
+            "data": {
+                "ipAddress": "149.154.167.91",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 14,
+                "countryCode": "GB",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Telegram Messenger Network",
+                "domain": "telegram.org",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 2,
+                "numDistinctUsers": 2,
+                "lastReportedAt": "2024-07-12T22:45:09+00:00"
+            }
+        }
+    },
+    {
+        "192.168.1.21": {
+            "data": {
+                "ipAddress": "192.168.1.21",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": "Private IP Address LAN",
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-04-10T23:45:03+00:00"
+            }
+        }
+    },
+    {
+        "52.167.167.59": {
+            "data": {
+                "ipAddress": "52.167.167.59",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "185.199.108.154": {
+            "data": {
+                "ipAddress": "185.199.108.154",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "GitHub Inc.",
+                "domain": "github.com",
+                "hostnames": [
+                    "cdn-185-199-108-154.github.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-05-27T16:05:07+00:00"
+            }
+        }
+    },
+    {
+        "104.26.13.205": {
+            "data": {
+                "ipAddress": "104.26.13.205",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": true,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Content Delivery Network",
+                "isp": "CloudFlare Inc.",
+                "domain": "cloudflare.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 201,
+                "numDistinctUsers": 1,
+                "lastReportedAt": "2024-07-20T16:05:40+00:00"
+            }
+        }
+    },
+    {
+        "127.0.0.1": {
+            "data": {
+                "ipAddress": "127.0.0.1",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": "Loopback",
+                "domain": null,
+                "hostnames": [
+                    "localhost"
+                ],
+                "isTor": false,
+                "totalReports": 1619,
+                "numDistinctUsers": 217,
+                "lastReportedAt": "2024-07-20T16:10:05+00:00"
+            }
+        }
+    },
+    {
+        "40.83.136.168": {
+            "data": {
+                "ipAddress": "40.83.136.168",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "54.236.122.113": {
+            "data": {
+                "ipAddress": "54.236.122.113",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Amazon.com Inc.",
+                "domain": "amazon.com",
+                "hostnames": [
+                    "ec2-54-236-122-113.compute-1.amazonaws.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "104.103.101.114": {
+            "data": {
+                "ipAddress": "104.103.101.114",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "AT",
+                "usageType": "Content Delivery Network",
+                "isp": "Akamai Technologies Inc.",
+                "domain": "akamai.com",
+                "hostnames": [
+                    "a104-103-101-114.deploy.static.akamaitechnologies.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "192.168.1.5": {
+            "data": {
+                "ipAddress": "192.168.1.5",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": "Private IP Address LAN",
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-03-06T02:15:33+00:00"
+            }
+        }
+    },
+    {
+        "140.82.113.25": {
+            "data": {
+                "ipAddress": "140.82.113.25",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "GitHub Inc.",
+                "domain": "github.com",
+                "hostnames": [
+                    "lb-140-82-113-25-iad.github.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2023-07-10T21:57:58+00:00"
+            }
+        }
+    },
+    {
+        "52.85.5.59": {
+            "data": {
+                "ipAddress": "52.85.5.59",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "BG",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Amazon.com Inc.",
+                "domain": "amazon.com",
+                "hostnames": [
+                    "server-52-85-5-59.sof50.r.cloudfront.net"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "212.39.90.52": {
+            "data": {
+                "ipAddress": "212.39.90.52",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "BG",
+                "usageType": null,
+                "isp": "Vivacom Bulgaria Ead",
+                "domain": "vivacom.bg",
+                "hostnames": [
+                    "212-39-90-52.ip.btc-net.bg"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "34.117.201.170": {
+            "data": {
+                "ipAddress": "34.117.201.170",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Google LLC",
+                "domain": "google.com",
+                "hostnames": [
+                    "170.201.117.34.bc.googleusercontent.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-05-23T06:03:30+00:00"
+            }
+        }
+    },
+    {
+        "146.66.155.54": {
+            "data": {
+                "ipAddress": "146.66.155.54",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "AT",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Valve Corporation",
+                "domain": "valvesoftware.com",
+                "hostnames": [
+                    "146-66-155-54.valve.net"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2023-11-26T21:11:07+00:00"
+            }
+        }
+    },
+    {
+        "192.168.1.2": {
+            "data": {
+                "ipAddress": "192.168.1.2",
+                "isPublic": false,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": null,
+                "usageType": "Reserved",
+                "isp": "Private IP Address LAN",
+                "domain": null,
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-05-20T06:33:39+00:00"
+            }
+        }
+    },
+    {
+        "2.18.69.115": {
+            "data": {
+                "ipAddress": "2.18.69.115",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "AT",
+                "usageType": "Content Delivery Network",
+                "isp": "Akamai International BV",
+                "domain": "akamai.com",
+                "hostnames": [
+                    "a2-18-69-115.deploy.static.akamaitechnologies.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "104.244.42.1": {
+            "data": {
+                "ipAddress": "104.244.42.1",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Twitter Inc.",
+                "domain": "twitter.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-06-27T05:45:36+00:00"
+            }
+        }
+    },
+    {
+        "20.79.107.7": {
+            "data": {
+                "ipAddress": "20.79.107.7",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "DE",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Microsoft Corporation",
+                "domain": "microsoft.com",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        }
+    },
+    {
+        "140.82.114.22": {
+            "data": {
+                "ipAddress": "140.82.114.22",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "US",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "GitHub Inc.",
+                "domain": "github.com",
+                "hostnames": [
+                    "lb-140-82-114-22-iad.github.com"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2023-12-25T14:49:26+00:00"
+            }
+        }
+    }
+]
